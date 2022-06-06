@@ -18,7 +18,7 @@
     <section class="about">
       <div class="content">
         <img
-          src="img/background.jpg"
+          src="background.jpg"
           style= "max-width: 100%;height:auto;"
           alt="Description of an image"
           width="75%"
